@@ -1,4 +1,4 @@
-Dodge Car Website 🚗
+Dodge Car Website 
 
 A modern and responsive Dodge car company website built using React, Vite, Tailwind CSS, and React Router.
 The website showcases Dodge vehicles with a clean UI, smooth navigation, and a professional car dealership layout.
